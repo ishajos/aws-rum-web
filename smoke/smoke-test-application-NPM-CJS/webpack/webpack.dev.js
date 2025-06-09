@@ -25,7 +25,7 @@ module.exports = {
         loader_npm_rum_tmp: './src/loader-npm-rum-tmp.ts',
         loader_npm_rum_tmp_2: './src/loader-npm-rum-tmp-2.ts',
         loader_npm_rum_tmp_w3c_format_enabled:
-            './src/loader-npm-rum-w3c-format_enabled.ts'
+            './src/loader-npm-rum-w3c-format-enabled.ts'
     },
     resolve: {
         extensions: ['.ts', '.js', '.json'],
