@@ -1,5 +1,5 @@
 // @ts-nocheck
-import { AwsRum, AwsRumConfig } from 'aws-rum-web';
+import { AwsRum, AwsRumConfig } from 'aws-rum-web-experimental';
 
 let awsRum;
 const token =
